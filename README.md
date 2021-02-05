@@ -8,4 +8,4 @@ Hola!, I'm Dhivakar
 - 😄 Pronouns: his/he.
 - ⚡ Fun fact: I love to play games almost a day.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhivakarshanmugam&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=dhivakar04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
