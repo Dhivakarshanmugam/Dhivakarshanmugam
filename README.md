@@ -2,10 +2,13 @@ Hola!, I'm Dhivakar
 
 - 🔭 I’m currently working as a Student.
 - 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate with peoples who help me to learn new things.
+- 👯 I’m looking to collaborate with peoples who will help me to learn new things.
 - 💬 Ask me about nothing cause i'm learnin right now
 - 😄 Pronouns: his/he.
 - ⚡ Fun fact: I love to play games almost a day.
 
 <img src="https://github-readme-stats.vercel.app/api?username=dhivakar04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<a href="https://twitter.com/imdhivakar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imdhivakar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dhivakar842" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dhivakar842" height="30" width="40" /></a>
+</p>
