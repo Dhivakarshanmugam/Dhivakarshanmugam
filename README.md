@@ -9,6 +9,7 @@ Hola!, I'm Dhivakar
 
 <h3 align="left">Languages:</h3>
 <p align="left"></p>
+
   <a href="https://www.java.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -17,9 +18,7 @@ Hola!, I'm Dhivakar
       height="40"
     />
   </a>
-</p>
-<h3 align="left">Tools:</h3>
-<p align="left">
+  
   <a href="https://html.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -28,18 +27,11 @@ Hola!, I'm Dhivakar
       height="40"
     />
   </a>
+  
   <a href="" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
       width="40"
       height="40"
     />
