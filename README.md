@@ -44,4 +44,5 @@ Hola!, I'm Dhivakar
 
 <a href="https://twitter.com/imdhivakar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imdhivakar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhivakar842" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dhivakar842" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_dhiva_kar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_dhiva_kar/" height="30" width="40" /></a>
 </p>
