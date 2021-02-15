@@ -38,7 +38,18 @@ Hola!, I'm Dhivakar
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhivakar04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<table>
+<tr  align="top"  padding="10">
+<img
+src="https://github-readme-stats.vercel.app/api?username=dhivakar04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
+/>
+<img
+align="top"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=dhivakar04&show_icons=true&locale=en&layout=compact"
+alt="dhivakar04"
+/>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 
