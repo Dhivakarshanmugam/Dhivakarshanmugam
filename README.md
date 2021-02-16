@@ -8,7 +8,7 @@ Hola!, I'm Dhivakar
 - ⚡ Fun fact: Staring at the sky for no reason.
 
 <h3 align="left">Languages:</h3>
-<p align="left"></p>
+<p align="left">
 
   <a href="https://www.java.com" target="_blank">
     <img
@@ -37,7 +37,27 @@ Hola!, I'm Dhivakar
     />
   </a>
 </p>
-
+<h3 align="left">Tools:</h3>
+<p align="left">
+<a href="" target="_blank">
+    <img
+      src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/96/eclipse-icon.png"
+      alt="Eclipse"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="" target="_blank">
+    <img
+      src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/visual-studio-code-icon.png"
+      alt="Visual Studio Code"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
+</p>
 <table>
 <tr  align="top"  padding="10">
 <img
