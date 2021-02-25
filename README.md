@@ -1,7 +1,7 @@
 Hola!, I'm Dhivakar
 
 - 🔭 I’m currently working as a Student.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning web dev and java.
 - 👯 I’m looking to collaborate with peoples who will help me to learn new things.
 - 💬 Ask me about nothing cause i'm learnin right now
 - 😄 Pronouns: his/he.
