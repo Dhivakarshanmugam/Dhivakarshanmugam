@@ -1,10 +1,9 @@
 Hola!, I'm Dhivakar
 
 - 🔭 I’m currently final year enginnering Student.
-- 🌱 I’m currently learning web dev and java.
+- 🌱 I’m currently learning C#.
 - 👯 I’m looking to collaborate with peoples who will help me to learn new things.
 - 💬 About me, I'm learning right now.
-- 😄 Pronouns: his/he.
 - ⚡ Fun fact: Staring at the sky for no reason.
 
 <h3 align="left">Languages:</h3>
