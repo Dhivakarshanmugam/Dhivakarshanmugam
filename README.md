@@ -1,6 +1,6 @@
 Hola!, I'm Dhivakar
 
-- 🔭 I’m currently final year enginnering Student.
+- 🔭 I’m currently final year engineering Student.
 - 🌱 I’m currently learning C#.
 - 👯 I’m looking to collaborate with peoples who will help me to learn new things.
 - 💬 About me, I'm learning right now.
